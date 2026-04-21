@@ -1,0 +1,19 @@
+{
+  "name": "logseq",
+  "version": "1.0.0",
+  "description": "Create and edit Logseq graph files including Markdown pages, journal entries, and queries. Use when working with .md files in a Logseq graph, block references, page links, tasks, or queries.",
+  "author": {
+    "name": "Jordan Alberts",
+    "url": "https://github.com/jalberts"
+  },
+  "repository": "https://github.com/jalberts/logseq-skills",
+  "license": "MIT",
+  "keywords": [
+    "logseq",
+    "markdown",
+    "queries",
+    "pkm",
+    "notes",
+    "blocks"
+  ]
+}
